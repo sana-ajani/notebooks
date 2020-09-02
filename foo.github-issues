@@ -1,0 +1,14 @@
+[
+  {
+    "kind": 2,
+    "language": "github-issues",
+    "value": "$vscode=repo:microsoft/vscode \n$milestone=milestone:\"May 2020\"\n$vscode author:@me",
+    "editable": true
+  },
+  {
+    "kind": 2,
+    "language": "github-issues",
+    "value": "",
+    "editable": true
+  }
+]
