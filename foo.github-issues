@@ -2,13 +2,19 @@
   {
     "kind": 2,
     "language": "github-issues",
-    "value": "$vscode=repo:microsoft/vscode \n$milestone=milestone:\"May 2020\"\n$vscode author:@me",
+    "value": "$vscode=repo:microsoft/vscode \n",
     "editable": true
   },
   {
     "kind": 2,
     "language": "github-issues",
-    "value": "",
+    "value": "$milestone=milestone:\"July 2020\"\n",
+    "editable": true
+  },
+  {
+    "kind": 2,
+    "language": "github-issues",
+    "value": "$vscode $milestone author:@me",
     "editable": true
   }
 ]
